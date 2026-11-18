@@ -1,3 +1,4 @@
+# pylint: disable=invalid-name
 """Module displaying the software product name."""
 
 
